@@ -1,0 +1,24 @@
+input::placeholder{
+    color: #09c !important  ;
+    text-align: center;
+}
+
+.text-gray{
+    font-family: arial;
+    color: #aaa;
+}
+.btn{
+    transition: 0.2s all;
+}
+.btn:hover{
+    box-shadow: 2px 5px 3px 0px #888;
+}
+.bg-gray {
+    background: linear-gradient(#eee, #fff);
+}
+.border-bottom {
+    border-bottom-color: #000 !important;
+}
+.form{
+    background-color: #eee;
+}
